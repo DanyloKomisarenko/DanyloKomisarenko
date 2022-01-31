@@ -1,4 +1,4 @@
-### Hi there, I'm Danylo Komisarenko - aka [Dankom] 👋
+### Hi there, I'm Dankom 👋
 I'm a Game Maker, a student and a Developer!!
 
 ### Languages and Tools:
