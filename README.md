@@ -1,4 +1,4 @@
-### Hi there, I'm Danylo Komisarenko aka Dankom 👋
+### Hi there, I'm Danylo Komisarenko 👋
 I'm a Student and a Developer!!
 
 ---
